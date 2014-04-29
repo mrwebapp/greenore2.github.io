@@ -8,3 +8,18 @@
     width: 200px;
     height: 25px;
 }
+
+.container{
+  overflow:hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+.shaped{
+  float:left;
+  height:100vh;
+  width:40vw;
+  float:right;
+  background: black url(../images/eiffel.jpg) center top no-repeat;
+  background-size:cover;
+}
