@@ -1,14 +1,4 @@
-/* First ID */
-#title {
-    background-color: lightblue;
-    text-align: center;
-    border: none;
-    border-radius: 5px;   
-    font-family: Verdana, Arial, Sans-Serif;
-    width: 200px;
-    height: 25px;
-}
-
+/* class */
 .container{
   overflow:hidden;
   height: 100vh;
