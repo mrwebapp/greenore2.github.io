@@ -1,8 +1,6 @@
 /*jslint browser: true*/
-/*global $, jQuery, alert*/
+/*global $, d3*/
 
-// First function
-$(document).ready(function () {
-    "use strict";
-    $('#title').after('<p id="txt">My own text</p>');
-});
+d3.select("div")
+    .append("p")
+    .text("New paragraph!");

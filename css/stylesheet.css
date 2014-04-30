@@ -1,9 +1,7 @@
 /* class */
-.shape {
+div {
     width:150px;
     height:150px;
     background: lightblue;
     border-radius: 100%;
-    float:left;
-    shape-outside: circle(56% at 56.65% 50%);
 }
